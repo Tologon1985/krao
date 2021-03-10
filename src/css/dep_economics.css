@@ -1,0 +1,44 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+.Container_image{
+    max-width: 500px;
+}
+.top1 {
+    font-size: 40px;
+    font-weight: bolder;
+    background: -webkit-linear-gradient(#3bdefa, #1358fd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 10px;
+}
+
+.block2{
+    display: flex;
+    font-size: 25px;
+    padding: 20px 0;
+    border-bottom: 2px solid #2a0952;
+}
+
+.founder{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 100px 0;
+}
+.founder .div{
+    width: 30%;
+    font-size: 25px;
+}
+
+.founder h2{
+    color: #c49558;
+}
+.preFounder{
+    text-align: center;
+    padding-top: 10px;
+    color: #c49558;
+    font-size: 30px;
+}
+

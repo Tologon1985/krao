@@ -1,12 +1,13 @@
 
-import Matriculant from "./components/matriculant";
 import React from "react";
+import DepEconomics from "./components/dep_economics";
+
 
 
 function App() {
   return (
     <div>
-      <Matriculant/>
+      <DepEconomics/>
     </div>
   )
 }
